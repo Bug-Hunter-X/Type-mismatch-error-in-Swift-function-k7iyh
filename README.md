@@ -1,0 +1,2 @@
+This repository demonstrates a common type mismatch error in Swift and how to solve it.
+The `bug.swift` file contains code that attempts to pass a String to a function expecting a Double. This will result in a compile-time error. The `bugSolution.swift` file shows the corrected version.
